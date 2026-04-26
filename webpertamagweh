@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Proyek Pertama</title>
+</head>
+
+<body>
+  
+  
+  <img src="riazganteng.jpg" alt="rias ganteng" width="200" height="200" />
+  <h1>Perkenalan</h1>
+  <p>Hai, Perkenalkan aku Riaz, Aku berusia 15 tahun.</p>
+  <p>Aku sedang belajar Coding dan Web Development.</p>
+  <p>ga pake AI yah</p>
+  
+  <hr>
+  
+  <h1>Skill yang sedang saya pelajari :</h1>
+  <ul>
+    <li>HTML </li>
+    <li>CSS </li>
+    <li>JavaScript </li>
+  </ul>
+  <h1>Saya juga ingin membuat hal lain seperti :</h1>
+  <ul>
+    <li>Membuat Game </li>
+    <li>Membuat App </li>
+    <li>Membuat Wev </li>
+    <li>Dan masih banyak lagi (kalo udh jago awokwok)</li>
+  </ul>
+  
+  <h1>Kritik & Saran</h1>
+  <p>Jika terdapat kritik dan saran silahkan isi dibawah ini</p>
+  
+  <form>
+    <textarea name="Kritik & Saran" id=jangan diisi rows="8" cols="40"></textarea><br>
+    
+    <button type="submit">Kirim</button>
+  </form>
+  <h6>jangan diisi cuma dekorasi</h6>
+  <hr>
+  
+  <h1>Kontak Saya</h1>
+  <a href="https://wa.me/6283852923206">Whatsapp</a>
+  
+  <h1>SEKIAN TERIMAKASIH</h1>
+  <h6>dibuat tanpa AI:3</h6>
+  
+</body>
+</html>
